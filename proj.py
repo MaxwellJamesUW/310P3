@@ -1,23 +1,3 @@
-##############
-# Your turn! #
-##############
-# Now you're ready for the next part, where you retrieve data from an API
-# of your choice. Note that you may need to provide an authentication key
-# for some APIs. For that, work another file, called hw5-application.py.
-#
-# You will need to copy a few of the import statements from the top of this
-# file. You may copy any helpful functions, too, like pretty() or
-# safe_get().
-#
-# See requirements in the README.
-#
-# Also note that when the sunrise sunset API we used is queried for a
-# date that doesn't exist, it gives a 400 error. Some APIs that you may
-# use will return JSON-formatted data saying that the requested item
-# couldn't be found. You may have to check the contents of the data you 
-# get back to see whether a query was successful. You don't have to do
-# that with the sunrise sunset API.
-
 import urllib.parse, urllib.request, urllib.error, json
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -171,3 +151,8 @@ if __name__ == "__main__":
 # When deploying to Google AppEngine, a webserver process will
 # serve your app.
     app.run(host="localhost", port=8080, debug=True)
+
+
+
+#TODO
+#use readyInMinutes, preparationMinutes, servings, pricePerServing in response 
