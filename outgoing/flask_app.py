@@ -1,23 +1,3 @@
-##############
-# Your turn! #
-##############
-# Now you're ready for the next part, where you retrieve data from an API
-# of your choice. Note that you may need to provide an authentication key
-# for some APIs. For that, work another file, called hw5-application.py.
-#
-# You will need to copy a few of the import statements from the top of this
-# file. You may copy any helpful functions, too, like pretty() or
-# safe_get().
-#
-# See requirements in the README.
-#
-# Also note that when the sunrise sunset API we used is queried for a
-# date that doesn't exist, it gives a 400 error. Some APIs that you may
-# use will return JSON-formatted data saying that the requested item
-# couldn't be found. You may have to check the contents of the data you 
-# get back to see whether a query was successful. You don't have to do
-# that with the sunrise sunset API.
-
 import urllib.parse, urllib.request, urllib.error, json
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -54,7 +34,7 @@ def callREST(urlstr):
 #    jsondata - dictionary of api search results
 #    lonks - dictionary of recipe links in ['id'] : 'linkURL' format
 def buildMealPage(jsondata):
-    header = "<html><head> <title> Meal Ideas </title></head><body>"
+    header = '<html><head><link rel="stylesheet" href="static/styles.css"><title> Meal Ideas </title></head><body>'
     header = header + '<form><input type="button" value="< Back" onclick="history.back()"></form>'
     footer = '<form><input type="button" value="< Back" onclick="history.back()"></form>' + "</body></html>"
     content = ''
@@ -72,23 +52,14 @@ def buildMealPage(jsondata):
     ofile.close()
     return header + content + footer
     
-# Takes in a list of meal ids from the spoonacular api
-# Iterates over that list and calls the recipe search function of the api with the meal ids
-# returns a dictionary with ids as keys and their corresponding recipe urls as values
-#TODO maybe remove if we don't need this
-def createLinks(idlst):
-    linkdict = {}
-    for id in idlst:
-        searchstr = 'https://api.spoonacular.com/recipes/' + str(id) + '/information?includeNutrition=false&apiKey=13c376e11f2642f88f73581396090379'
-        retdata = callREST(searchstr)
-        if retdata != None:
-            linkdict[id] = retdata['sourceUrl']
-    return linkdict
 
 # Big function that uses the input from the html form to make api calls
 # This is essentially main()
 def generateMeals():
     #print("List of accepted intolerances here: https://spoonacular.com/food-api/docs#Intolerances")
+
+    #first, get parameters from html form
+    #checkboxes to csv is a mess 
     intolStr = ''
     intol=''
     if request.args.get("iDairy"):
@@ -118,15 +89,15 @@ def generateMeals():
 
     if intolStr:
         intol = intolStr[:-1]
+
     tags = request.args.get('ingredients')
     maxTime = request.args.get("maxTime")
     sortMethod = request.args.get('sortin')
     mealType = request.args.get('mealType')
     diet = request.args.get('diet')
 
-    #headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36'}
+    #build url
     baseurl = 'https://api.spoonacular.com/recipes/complexSearch'
-
     tdic = {"apiKey":'13c376e11f2642f88f73581396090379'}
     if intol:
         tdic['intolerances'] = intol
@@ -140,8 +111,8 @@ def generateMeals():
         tdic['type'] = mealType
     if diet:
         tdic['diet'] = diet
-
     tdic['addRecipeInformation'] = 'true'
+    tdic['addRecipeNutrition'] = 'true'
 
     paramstr = urllib.parse.urlencode(tdic)
 
@@ -161,11 +132,7 @@ def generateMeals():
     for item in apidata['results']:
         #print("   " + item['title'])
         idlst.append(item['id'])
-
-    #print("ID list: {}".format(idlst))
-    #print('Getting Links...')
-    #links = createLinks(idlst)
-    #print("Links: {}".format(links))
+        
 
     print('Writing HTML...')
     return buildMealPage(apidata)
@@ -184,3 +151,8 @@ if __name__ == "__main__":
 # When deploying to Google AppEngine, a webserver process will
 # serve your app.
     app.run(host="localhost", port=8080, debug=True)
+
+
+
+#TODO
+#use readyInMinutes, preparationMinutes, servings, pricePerServing in response 

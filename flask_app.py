@@ -34,18 +34,18 @@ def callREST(urlstr):
 #    jsondata - dictionary of api search results
 #    lonks - dictionary of recipe links in ['id'] : 'linkURL' format
 def buildMealPage(jsondata):
-    header = '<html><head><link rel="stylesheet" href="static/styles.css"><title> Meal Ideas </title></head><body>'
-    header = header + '<form><input type="button" value="< Back" onclick="history.back()"></form>'
-    footer = '<form><input type="button" value="< Back" onclick="history.back()"></form>' + "</body></html>"
+    header = '<html><head><link rel="stylesheet" href="static/styles.css"><title> Meal Ideas </title></head><body><div>'
+    header = header + '<form><input type="button" class="button" value="< Back" onclick="history.back()"></form>'
+    footer = '<form><input type="button" class="button" value="< Back" onclick="history.back()"></form>' + "</div></body></html>"
     content = ''
     
     if len(jsondata['results']) < 1:
         content = "<h1>None of our meals matched your search :(</h1>"
 
     for item in jsondata['results']:
-        content = content + '<h1>'+item['title']+'</h1>'
+        content = content + '<h2>'+item['title']+'</h2>'
         content = content + '<img src="'+item["image"]+'" alt=\"img\" max-width=\"600\">'
-        content = content + "<br><a href="+item['sourceUrl']+' target="_blank">See the Recipe --></a>'
+        content = content + "<br><a href="+item['sourceUrl']+' target="_blank">Go To Recipe</a>'
     
     ofile = open('output.html', 'w')
     ofile.write(header + content + footer)
@@ -125,7 +125,7 @@ def generateMeals():
         print("API call went wrong, we have no response data!")
         exit()
 
-    print(pretty(apidata))
+    #print(pretty(apidata))
     #print('Meal Ideas:')
 
     idlst = []

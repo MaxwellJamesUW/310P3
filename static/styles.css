@@ -1,4 +1,81 @@
 body    {
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(43, 56, 56);
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
     
+}
+
+div {
+    max-width: 1000px;
+    background-color: lightgoldenrodyellow;
+    padding : 30px 0;
+    margin : 0 auto;
+
+}
+
+h1   {
+    padding: 0;
+    margin:0 auto;
+    color: rgb(109, 0, 0);
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    
+}
+
+h2 {
+    margin:5px auto;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h3  {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 20px 0 5px;
+}
+
+form {
+    padding: 0 20px;
+    margin: 5px auto;
+    max-width : 400px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin : 5px auto 0;
+}
+
+label {
+    padding : 6px;
+}
+
+input {
+    margin: 10px 0;
+    padding: 5px;
+}
+
+a {
+    background-color:  rgb(109, 0, 0);
+    color : lightgoldenrodyellow;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto 20px;
+    max-width: 268px;
+
+}
+
+a:hover{
+    color: white
+}
+
+a:visited{
+    background-color: rgb(39, 11, 11);
+}
+
+.button{
+    padding: 20px;
 }
