@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+    <head> 
+        <link rel="stylesheet" href="static/styles.css">
+        <title>Meal Form</title>
+    </head>
+    <body>
+        <h1>Max's Meal Machine</h1>
+        <form action="mealsresponse" method="get">
+            <h3>Meal Type:</h3>
+            <select name="mealType" id="mealType">
+                <option value=''>---</option>
+                <option value="main course">Main Course</option>
+                <option value="side dish">Side Dish</option>
+                <option value="dessert">Dessert</option>
+                <option value="Appetizer">Appetizer</option>
+                <option value="salad">Salad</option>
+                <option value="bread">Bread</option>
+                <option value="breakfast">Breakfast</option>
+                <option value="soup">Soup</option>
+                <option value="beverage">Beverage</option>
+                <option value="sauce">Sauce</option>
+                <option value="marinade">Marinade</option>
+                <option value="fingerfood">Finger Food</option>
+                <option value="snack">Snack</option>
+                <option value="drink">Drink</option>
+            </select>
+
+            <h3>Diet:</h3>
+            <select name="diet" id="diet">
+                <option value="">---</option>
+                <option value="vegetarian">Vegetarian</option>
+                <option value="pescetarian">Pescetarian</option>
+                <option value="gluten free">Gluten Free</option>
+                <option value="vegan">Vegan</option>
+            </select>
+
+            <h3>Food Intolerances: </h3>
+            <input type="checkbox" id="iDairy" name="iDairy" value="Dairy">
+            <label for="iDairy">Dairy</label><br>
+            <input type="checkbox" id="iEgg" name="iEgg" value="Egg">
+            <label for="iEgg">Egg</label><br>
+            <input type="checkbox" id="iGluten" name="iGluten" value="Gluten">
+            <label for="iGluten">Gluten</label><br>
+            <input type="checkbox" id="iGrain" name="iGrain" value="Grain">
+            <label for="iGrain">Grain</label><br>
+            <input type="checkbox" id="iPeanut" name="iPeanut" value="Peanut">
+            <label for="iPeanut">Peanut</label><br>
+            <input type="checkbox" id="iSeafood" name="iSeafood" value="Seafood">
+            <label for="iSeafood">Seafood</label><br>
+            <input type="checkbox" id="iSesame" name="iSesame" value="Sesame">
+            <label for="iSesame">Sesame</label><br>
+            <input type="checkbox" id="iShellfish" name="iShellfish" value="Shellfish">
+            <label for="iShellfish">Shellfish</label><br>
+            <input type="checkbox" id="iSoy" name="iSoy" value="Soy">
+            <label for="iSoy">Soy</label><br>
+            <input type="checkbox" id="iSulfite" name="iSulfite" value="Sulfite">
+            <label for="iSulfite">Sulfite</label><br>
+            <input type="checkbox" id="iTreeNut" name="iTreeNut" value="TreeNut">
+            <label for="iTreeNut">Tree Nuts</label><br>
+            <input type="checkbox" id="iWheat" name="iWheat" value="Wheat">
+            <label for="iWheat">Wheat</label><br>
+
+            <h3>Ingredients to Include (comma separated values): </h3>
+            <input type="text" id="ingredients" name="ingredients">
+
+            <h3>Maximum Time to Prepare (integer): </h3>
+            <input type="text" id="maxTime" name="maxTime">
+            <label>minutes</label>
+
+            <h3>Sort by:</h3>
+            <select name="sortin" id="sortin">
+                <option value="">---</option>
+                <option value="meta-score">Meta-Score</option>
+                <option value="popularity">Popularity</option>
+                <option value="healthiness">Healthiness Score</option>
+                <option value="price">Price</option>
+                <option value="time">Time to Prepare</option>
+                <option value="calories">Calories</option>
+                <option value="alcohol">Alcohol Content</option>
+            </select>
+
+            
+            <br><br><input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
