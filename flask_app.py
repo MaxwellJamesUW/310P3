@@ -36,16 +36,20 @@ def callREST(urlstr):
 def buildMealPage(jsondata):
     header = '<html><head><link rel="stylesheet" href="static/styles.css"><title> Meal Ideas </title></head><body><div>'
     header = header + '<form><input type="button" class="button" value="< Back" onclick="history.back()"></form>'
+    header = header + '<h1>Recipes Matching Your Search:</h1>'
     footer = '<form><input type="button" class="button" value="< Back" onclick="history.back()"></form>' + "</div></body></html>"
     content = ''
     
     if len(jsondata['results']) < 1:
         content = "<h1>None of our meals matched your search :(</h1>"
 
+    i = 1
     for item in jsondata['results']:
-        content = content + '<h2>'+item['title']+'</h2>'
+        content = content + '<h2>'+ str(i) + ". "+item['title']+'</h2>'
         content = content + '<img src="'+item["image"]+'" alt=\"img\" max-width=\"600\">'
-        content = content + "<br><a href="+item['sourceUrl']+' target="_blank">Go To Recipe</a>'
+        content = content + '<p>' + item['summary'] + '</p>'
+        content = content + '<br><a class="recipeLink" href='+item['sourceUrl']+' target="_blank">Make '+item['title']+'</a>'
+        i += 1
     
     ofile = open('output.html', 'w')
     ofile.write(header + content + footer)
@@ -112,7 +116,7 @@ def generateMeals():
     if diet:
         tdic['diet'] = diet
     tdic['addRecipeInformation'] = 'true'
-    tdic['addRecipeNutrition'] = 'true'
+    #tdic['addRecipeNutrition'] = 'true'
 
     paramstr = urllib.parse.urlencode(tdic)
 
@@ -126,6 +130,10 @@ def generateMeals():
         exit()
 
     #print(pretty(apidata))
+    ofile = open('apiResponse.txt', 'w')
+    ofile.write(pretty(apidata))
+    ofile.close()
+
     #print('Meal Ideas:')
 
     idlst = []
@@ -153,6 +161,3 @@ if __name__ == "__main__":
     app.run(host="localhost", port=8080, debug=True)
 
 
-
-#TODO
-#use readyInMinutes, preparationMinutes, servings, pricePerServing in response 

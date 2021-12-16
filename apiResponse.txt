@@ -1,0 +1,1780 @@
+{
+  "number": 10,
+  "offset": 0,
+  "results": [
+    {
+      "aggregateLikes": 19,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [
+                {
+                  "id": 404752,
+                  "image": "stock-pot.jpg",
+                  "localizedName": "pot",
+                  "name": "pot"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "image": "olive-oil.jpg",
+                  "localizedName": "olive oil",
+                  "name": "olive oil"
+                }
+              ],
+              "number": 1,
+              "step": "Heat the olive oil in a large pot over medium heat."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11233,
+                  "image": "kale.jpg",
+                  "localizedName": "kale",
+                  "name": "kale"
+                }
+              ],
+              "number": 2,
+              "step": "Add the kale and cover.Stir occasionally until the volume of the kale is reduced by half. Uncover."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 2053,
+                  "image": "vinegar-(white).jpg",
+                  "localizedName": "vinegar",
+                  "name": "vinegar"
+                },
+                {
+                  "id": 11215,
+                  "image": "garlic.png",
+                  "localizedName": "garlic",
+                  "name": "garlic"
+                }
+              ],
+              "number": 3,
+              "step": "Add garlic and basalmic.Allow to cook for about another 30 seconds or so, mixing well so that the garlic and vinegar are well distributed."
+            },
+            {
+              "equipment": [],
+              "ingredients": [],
+              "number": 4,
+              "step": "Serve hot."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Foodista.com \u2013 The Cooking Encyclopedia Everyone Can Edit",
+      "cuisines": [],
+      "dairyFree": true,
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "paleolithic",
+        "lacto ovo vegetarian",
+        "primal",
+        "vegan"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": true,
+      "healthScore": 93.0,
+      "id": 644387,
+      "image": "https://spoonacular.com/recipeImages/644387-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 3.0",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 69.09,
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceName": "Foodista",
+      "sourceUrl": "http://www.foodista.com/recipe/J2FTJBF7/garlicky-kale",
+      "spoonacularScore": 99.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/garlicky-kale-644387",
+      "summary": "Garlicky Kale might be just the side dish you are searching for. This caveman, gluten free, primal, and whole 30 recipe serves 2 and costs <b>69 cents per serving</b>. One serving contains <b>179 calories</b>, <b>3g of protein</b>, and <b>15g of fat</b>. A few people made this recipe, and 17 would say it hit the spot. If you have olive oil, garlic, curly kale, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 99%</b>. This score is awesome. Try <a href=\"https://spoonacular.com/recipes/garlicky-kale-248759\">Garlicky Kale</a>, <a href=\"https://spoonacular.com/recipes/garlicky-kale-14910\">Garlicky Kale</a>, and <a href=\"https://spoonacular.com/recipes/garlicky-kale-crostini-15010\">Garlicky Kale Crostini</a> for similar recipes.",
+      "sustainable": false,
+      "title": "Garlicky Kale",
+      "vegan": true,
+      "vegetarian": true,
+      "veryHealthy": true,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 5
+    },
+    {
+      "aggregateLikes": 26,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [
+                {
+                  "id": 404762,
+                  "image": "microwave.jpg",
+                  "localizedName": "microwave",
+                  "name": "microwave"
+                },
+                {
+                  "id": 404784,
+                  "image": "oven.jpg",
+                  "localizedName": "oven",
+                  "name": "oven"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 11098,
+                  "image": "brussels-sprouts.jpg",
+                  "localizedName": "brussels sprouts",
+                  "name": "brussels sprouts"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "length": {
+                "number": 12,
+                "unit": "minutes"
+              },
+              "number": 1,
+              "step": "Blanch the Brussels sprouts in boiling water for 6-8 minutes or in a microwave oven in a little water for about 4 minutes."
+            },
+            {
+              "equipment": [],
+              "ingredients": [],
+              "number": 2,
+              "step": "Drain."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11098,
+                  "image": "brussels-sprouts.jpg",
+                  "localizedName": "brussels sprouts",
+                  "name": "brussels sprouts"
+                },
+                {
+                  "id": 4053,
+                  "image": "olive-oil.jpg",
+                  "localizedName": "olive oil",
+                  "name": "olive oil"
+                },
+                {
+                  "id": 2046,
+                  "image": "regular-mustard.jpg",
+                  "localizedName": "mustard",
+                  "name": "mustard"
+                },
+                {
+                  "id": 2053,
+                  "image": "vinegar-(white).jpg",
+                  "localizedName": "vinegar",
+                  "name": "vinegar"
+                },
+                {
+                  "id": 19296,
+                  "image": "honey.png",
+                  "localizedName": "honey",
+                  "name": "honey"
+                }
+              ],
+              "number": 3,
+              "step": "Saute the Brussels sprouts, stirring constantly, until they become golden-brown in color.Meanwhile mix the vinegar, mustard, honey and olive oil."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11001,
+                  "image": "alfalfa-sprouts.png",
+                  "localizedName": "sprouts",
+                  "name": "sprouts"
+                },
+                {
+                  "id": 12155,
+                  "image": "walnuts.jpg",
+                  "localizedName": "walnuts",
+                  "name": "walnuts"
+                }
+              ],
+              "number": 4,
+              "step": "Add walnuts to the sprouts, stir and combine."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11001,
+                  "image": "alfalfa-sprouts.png",
+                  "localizedName": "sprouts",
+                  "name": "sprouts"
+                },
+                {
+                  "id": 2053,
+                  "image": "vinegar-(white).jpg",
+                  "localizedName": "vinegar",
+                  "name": "vinegar"
+                },
+                {
+                  "id": 1002030,
+                  "image": "pepper.jpg",
+                  "localizedName": "pepper",
+                  "name": "pepper"
+                }
+              ],
+              "number": 5,
+              "step": "Pour the vinegar dressing over the sprouts, season with pepper."
+            },
+            {
+              "equipment": [],
+              "ingredients": [],
+              "number": 6,
+              "step": "Mix and combine so that each sprout is covered with the dressing."
+            },
+            {
+              "equipment": [],
+              "ingredients": [],
+              "number": 7,
+              "step": "Serve warm or cold as a side dish."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Foodista.com \u2013 The Cooking Encyclopedia Everyone Can Edit",
+      "cuisines": [],
+      "dairyFree": true,
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "paleolithic",
+        "lacto ovo vegetarian",
+        "primal"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": true,
+      "healthScore": 100.0,
+      "id": 640941,
+      "image": "https://spoonacular.com/recipeImages/640941-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 3.0",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 169.38,
+      "readyInMinutes": 30,
+      "servings": 4,
+      "sourceName": "Foodista",
+      "sourceUrl": "http://www.foodista.com/recipe/LKJMG5RP/crunchy-brussels-sprouts",
+      "spoonacularScore": 98.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/crunchy-brussels-sprouts-side-dish-640941",
+      "summary": "Crunchy Brussels Sprouts Side Dish might be just the side dish you are searching for. This recipe makes 4 servings with <b>232 calories</b>, <b>8g of protein</b>, and <b>16g of fat</b> each. For <b>$1.69 per serving</b>, this recipe <b>covers 22%</b> of your daily requirements of vitamins and minerals. 26 people have tried and liked this recipe. If you have pepper, wine vinegar, dijon mustard, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes around <b>30 minutes</b>. It is a good option if you're following a <b>caveman, gluten free, dairy free, and primal</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 99%</b>. This score is spectacular. Try <a href=\"https://spoonacular.com/recipes/easy-side-dish-roasted-brussels-sprouts-and-grapes-474168\">Easy Side Dish \u2013 Roasted Brussels Sprouts and Grapes</a>, <a href=\"https://spoonacular.com/recipes/csa-day-with-a-side-of-sauteed-brussels-sprouts-with-lemon-vinaigrette-534559\">CSA Day with a Side of Sauteed Brussels Sprouts with Lemon Vinaigrette</a>, and <a href=\"https://spoonacular.com/recipes/thanksgiving-side-shredded-brussels-sprouts-with-persimmons-apricots-and-walnuts-574577\">Thanksgiving Side : Shredded Brussels Sprouts with Persimmons, Apricots, and Walnuts</a> for similar recipes.",
+      "sustainable": false,
+      "title": "Crunchy Brussels Sprouts Side Dish",
+      "vegan": false,
+      "vegetarian": true,
+      "veryHealthy": true,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 4
+    },
+    {
+      "aggregateLikes": 32,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                },
+                {
+                  "id": 11304,
+                  "image": "peas.jpg",
+                  "localizedName": "peas",
+                  "name": "peas"
+                }
+              ],
+              "length": {
+                "number": 360,
+                "unit": "minutes"
+              },
+              "number": 1,
+              "step": "Rinse the black-eyed peas and soak in several inches of water for 6 hours or overnight."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404669,
+                  "image": "sauce-pan.jpg",
+                  "localizedName": "sauce pan",
+                  "name": "sauce pan"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 0,
+                  "image": "kidney-beans.jpg",
+                  "localizedName": "beans",
+                  "name": "beans"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "length": {
+                "number": 40,
+                "unit": "minutes"
+              },
+              "number": 2,
+              "step": "Drain and rinse, then transfer to a large saucepan and cover with fresh water. Bring to a boil, reduce heat to medium-low, cover, and simmer for 40 to 60 minutes. Take care not to overcook  the beans should be tender but not be falling apart."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "image": "eggplant.png",
+                  "localizedName": "eggplant",
+                  "name": "eggplant"
+                }
+              ],
+              "number": 3,
+              "step": "Drain and set aside.To prepare the eggplant, cut of the stem and bottom edge and then cut in half lengthwise. Score the flesh into diagonal 1-inch lines, then turn and score again until you have a diagonal pattern. Take care not to cut through the skin."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                },
+                {
+                  "id": 2047,
+                  "image": "salt.jpg",
+                  "localizedName": "salt",
+                  "name": "salt"
+                }
+              ],
+              "length": {
+                "number": 40,
+                "unit": "minutes"
+              },
+              "number": 4,
+              "step": "Sprinkle with some salt and let sit for 40 minutes. Rinse and squeeze out any excess water."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404629,
+                  "image": "roasting-pan.jpg",
+                  "localizedName": "roasting pan",
+                  "name": "roasting pan"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "image": "eggplant.png",
+                  "localizedName": "eggplant",
+                  "name": "eggplant"
+                },
+                {
+                  "id": 4582,
+                  "image": "vegetable-oil.jpg",
+                  "localizedName": "cooking oil",
+                  "name": "cooking oil"
+                }
+              ],
+              "number": 5,
+              "step": "Brush the eggplant with some oil and transfer to a roasting pan."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404784,
+                  "image": "oven.jpg",
+                  "localizedName": "oven",
+                  "name": "oven"
+                }
+              ],
+              "ingredients": [],
+              "number": 6,
+              "step": "Bake in a preheated 400 oven until the flesh appears collapsed and is wrinkly."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 405600,
+                  "image": "strainer.png",
+                  "localizedName": "sieve",
+                  "name": "sieve"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "image": "eggplant.png",
+                  "localizedName": "eggplant",
+                  "name": "eggplant"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                },
+                {
+                  "id": 2047,
+                  "image": "salt.jpg",
+                  "localizedName": "salt",
+                  "name": "salt"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              },
+              "number": 7,
+              "step": "Remove from heat and let cool for about 10 minutes, season with a bit of salt, and remove the flesh from the eggplant. If there is too much water, drain in a strainer. Set aside."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404669,
+                  "image": "sauce-pan.jpg",
+                  "localizedName": "sauce pan",
+                  "name": "sauce pan"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 11677,
+                  "image": "shallots.jpg",
+                  "localizedName": "shallot",
+                  "name": "shallot"
+                },
+                {
+                  "id": 11819,
+                  "image": "red-chili.jpg",
+                  "localizedName": "chili pepper",
+                  "name": "chili pepper"
+                },
+                {
+                  "id": 2035,
+                  "image": "spices.png",
+                  "localizedName": "spices",
+                  "name": "spices"
+                },
+                {
+                  "id": 11304,
+                  "image": "peas.jpg",
+                  "localizedName": "peas",
+                  "name": "peas"
+                },
+                {
+                  "id": 4582,
+                  "image": "vegetable-oil.jpg",
+                  "localizedName": "cooking oil",
+                  "name": "cooking oil"
+                }
+              ],
+              "length": {
+                "number": 2,
+                "unit": "minutes"
+              },
+              "number": 8,
+              "step": "Heat the oil over medium heat in the same saucepan used to cook the black-eyed peas. When hot, toss in the shallots and chilies and saut for 2 to 3 minutes. Now add the spices and stir for another minute, until fragrant."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11209,
+                  "image": "eggplant.png",
+                  "localizedName": "eggplant",
+                  "name": "eggplant"
+                },
+                {
+                  "id": 11529,
+                  "image": "tomato.png",
+                  "localizedName": "tomato",
+                  "name": "tomato"
+                },
+                {
+                  "id": 11304,
+                  "image": "peas.jpg",
+                  "localizedName": "peas",
+                  "name": "peas"
+                }
+              ],
+              "number": 9,
+              "step": "Add the tomato, cook for another few minutes, and then add the eggplant and black-eyed peas, and cook for another few minutes, stirring often."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404645,
+                  "image": "pan.png",
+                  "localizedName": "frying pan",
+                  "name": "frying pan"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 11147,
+                  "image": "swiss-chard.jpg",
+                  "localizedName": "swiss chard",
+                  "name": "swiss chard"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "number": 10,
+              "step": "Pour a few tablespoons of water into the pan and add handfuls of chard at a time until wilted."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "number": 11,
+              "step": "Add more water as necessary."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 9152,
+                  "image": "lemon-juice.jpg",
+                  "localizedName": "lemon juice",
+                  "name": "lemon juice"
+                },
+                {
+                  "id": 2047,
+                  "image": "salt.jpg",
+                  "localizedName": "salt",
+                  "name": "salt"
+                }
+              ],
+              "number": 12,
+              "step": "Add the lemon juice and salt to taste near the end of the cooking time."
+            },
+            {
+              "equipment": [],
+              "ingredients": [],
+              "number": 13,
+              "step": "Remove from heat, cover, and let sit for a few minutes before serving."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Lisa's Vegetarian Kitchen",
+      "cuisines": [
+        "Indian",
+        "Asian"
+      ],
+      "dairyFree": true,
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": true,
+      "healthScore": 87.0,
+      "id": 798400,
+      "image": "https://spoonacular.com/recipeImages/798400-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 2.5 CA",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 100.72,
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceName": "Food and Spice",
+      "sourceUrl": "http://foodandspice.blogspot.com/2016/08/spicy-black-eyed-pea-curry-with-swiss.html",
+      "spoonacularScore": 98.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/spicy-black-eyed-pea-curry-with-swiss-chard-and-roasted-eggplant-798400",
+      "summary": "The recipe Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant is ready <b>in roughly 45 minutes</b> and is definitely a spectacular <b>gluten free and vegan</b> option for lovers of Indian food. This recipe makes 6 servings with <b>130 calories</b>, <b>7g of protein</b>, and <b>2g of fat</b> each. For <b>99 cents per serving</b>, this recipe <b>covers 21%</b> of your daily requirements of vitamins and minerals. A few people made this recipe, and 32 would say it hit the spot. A mixture of chilies, olive oil, garam masala, and a handful of other ingredients are all it takes to make this recipe so delicious. All things considered, we decided this recipe <b>deserves a spoonacular score of 98%</b>. This score is amazing. Try <a href=\"https://spoonacular.com/recipes/black-eyed-peas-in-a-spicy-goan-curry-31050\">Black-eyed Peas In A Spicy Goan Curry</a>, <a href=\"https://spoonacular.com/recipes/black-eyed-peas-in-a-spicy-goan-curry-31057\">Black-eyed Peas In A Spicy Goan Curry</a>, and <a href=\"https://spoonacular.com/recipes/roasted-butternut-squash-black-bean-and-swiss-chard-quinoa-bibimbap-247604\">Roasted Butternut Squash, Black Bean and Swiss Chard Quinoa Bibimbap</a> for similar recipes.",
+      "sustainable": false,
+      "title": "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+      "vegan": true,
+      "vegetarian": true,
+      "veryHealthy": true,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 2
+    },
+    {
+      "aggregateLikes": 80,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [
+                {
+                  "id": 404726,
+                  "image": "blender.png",
+                  "localizedName": "blender",
+                  "name": "blender"
+                }
+              ],
+              "ingredients": [],
+              "number": 1,
+              "step": "Combine all of the ingredients in a blender. Blend on high until smooth."
+            },
+            {
+              "equipment": [],
+              "ingredients": [],
+              "number": 2,
+              "step": "Serve immediately."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Foodista.com \u2013 The Cooking Encyclopedia Everyone Can Edit",
+      "cuisines": [],
+      "dairyFree": true,
+      "diets": [
+        "gluten free",
+        "dairy free"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": true,
+      "healthScore": 55.0,
+      "id": 756814,
+      "image": "https://spoonacular.com/recipeImages/756814-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 3.0",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 259.09,
+      "readyInMinutes": 10,
+      "servings": 2,
+      "sourceName": "Foodista",
+      "sourceUrl": "http://www.foodista.com/blog/2015/05/17/powehouse-almond-matcha-superfood-smoothie",
+      "spoonacularScore": 98.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/powerhouse-almond-matcha-superfood-smoothie-756814",
+      "summary": "Powerhouse Almond Matcha Superfood Smoothie might be just the morn meal you are searching for. This recipe makes 2 servings with <b>294 calories</b>, <b>11g of protein</b>, and <b>13g of fat</b> each. For <b>$2.59 per serving</b>, this recipe <b>covers 27%</b> of your daily requirements of vitamins and minerals. If you have pineapple, almond milk, banana, and a few other ingredients on hand, you can make it. 80 people were impressed by this recipe. It is a good option if you're following a <b>gluten free, dairy free, and whole 30</b> diet. From preparation to the plate, this recipe takes around <b>10 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 98%</b>. This score is tremendous. Try <a href=\"https://spoonacular.com/recipes/powerhouse-golden-turmeric-smoothie-882363\">Powerhouse Golden Turmeric Smoothie</a>, <a href=\"https://spoonacular.com/recipes/matcha-almond-layer-cake-with-matcha-frosting-523362\">Matchan Almond Layer Cake with Matcha Frosting</a>, and <a href=\"https://spoonacular.com/recipes/minty-matcha-nanaimo-bars-a-decadent-superfood-treat-704047\">Minty Matcha Nanaimo Bars: A Decadent Superfood Treat</a> for similar recipes.",
+      "sustainable": false,
+      "title": "Powerhouse Almond Matcha Superfood Smoothie",
+      "vegan": false,
+      "vegetarian": false,
+      "veryHealthy": true,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 4
+    },
+    {
+      "aggregateLikes": 47,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [
+                {
+                  "id": 404783,
+                  "image": "bowl.jpg",
+                  "localizedName": "bowl",
+                  "name": "bowl"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 0,
+                  "image": "mushrooms.png",
+                  "localizedName": "dried mushrooms",
+                  "name": "dried mushrooms"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "length": {
+                "number": 25,
+                "unit": "minutes"
+              },
+              "number": 1,
+              "step": "In a small bowl, cover dried mushrooms with warm water.  Soak for 25 minutes, or until softened."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404752,
+                  "image": "stock-pot.jpg",
+                  "localizedName": "pot",
+                  "name": "pot"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 11260,
+                  "image": "mushrooms.png",
+                  "localizedName": "mushrooms",
+                  "name": "mushrooms"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "number": 2,
+              "step": "Drain the mushrooms, and discard the soaking water.  Chop finely.Bring a large pot of water to a boil."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 10020005,
+                  "image": "farro-or-spelt.jpg",
+                  "localizedName": "farro",
+                  "name": "farro"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              },
+              "number": 3,
+              "step": "Add farro, and cook for 10 minutes, stirring occasionally."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404645,
+                  "image": "pan.png",
+                  "localizedName": "frying pan",
+                  "name": "frying pan"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 1012068,
+                  "image": "dark-sauce.jpg",
+                  "localizedName": "sherry vinegar",
+                  "name": "sherry vinegar"
+                },
+                {
+                  "id": 11260,
+                  "image": "mushrooms.png",
+                  "localizedName": "mushrooms",
+                  "name": "mushrooms"
+                },
+                {
+                  "id": 4053,
+                  "image": "olive-oil.jpg",
+                  "localizedName": "olive oil",
+                  "name": "olive oil"
+                },
+                {
+                  "id": 11215,
+                  "image": "garlic.png",
+                  "localizedName": "garlic",
+                  "name": "garlic"
+                },
+                {
+                  "id": 11282,
+                  "image": "brown-onion.png",
+                  "localizedName": "onion",
+                  "name": "onion"
+                },
+                {
+                  "id": 2049,
+                  "image": "thyme.jpg",
+                  "localizedName": "thyme",
+                  "name": "thyme"
+                }
+              ],
+              "length": {
+                "number": 6,
+                "unit": "minutes"
+              },
+              "number": 4,
+              "step": "Drain and reserve.In a large skillet, over medium heat, heat the olive oil, and add onion, garlic, thyme, and mushrooms.Cook, stirring occasionally, for 5 minutes or until onions are tender.Stir in 2 tablespoons of sherry vinegar, and continue cooking for 1 minute."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 6172,
+                  "image": "chicken-broth.png",
+                  "localizedName": "chicken stock",
+                  "name": "chicken stock"
+                },
+                {
+                  "id": 10020005,
+                  "image": "farro-or-spelt.jpg",
+                  "localizedName": "farro",
+                  "name": "farro"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              },
+              "number": 5,
+              "step": "Add chicken stock, and bring it to a boil.Stir in farro, and return to a boil.Lower the heat to a simmer, and cover with a tight fitting lid.  Cook for 10 minutes."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "image": "salt-and-pepper.jpg",
+                  "localizedName": "salt and pepper",
+                  "name": "salt and pepper"
+                },
+                {
+                  "id": 1012068,
+                  "image": "dark-sauce.jpg",
+                  "localizedName": "sherry vinegar",
+                  "name": "sherry vinegar"
+                },
+                {
+                  "id": 11011,
+                  "image": "asparagus.png",
+                  "localizedName": "asparagus",
+                  "name": "asparagus"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              },
+              "number": 6,
+              "step": "Add asparagus, and cook, covered, for an additional 10 minutes.Season with 1 tablespoon sherry vinegar, salt and pepper."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Foodista.com \u2013 The Cooking Encyclopedia Everyone Can Edit",
+      "cuisines": [],
+      "dairyFree": true,
+      "diets": [
+        "dairy free",
+        "lacto ovo vegetarian"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": false,
+      "healthScore": 81.0,
+      "id": 642605,
+      "image": "https://spoonacular.com/recipeImages/642605-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 3.0",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 394.03,
+      "readyInMinutes": 75,
+      "servings": 4,
+      "sourceName": "Foodista",
+      "sourceUrl": "http://www.foodista.com/recipe/DMV5G8FD/farro-with-mushrooms-and-asparagus",
+      "spoonacularScore": 97.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/farro-with-mushrooms-and-asparagus-642605",
+      "summary": "Need a <b>dairy free and vegetarian side dish</b>? Farro With Mushrooms and Asparagus could be an excellent recipe to try. This recipe makes 4 servings with <b>365 calories</b>, <b>12g of protein</b>, and <b>9g of fat</b> each. For <b>$3.94 per serving</b>, this recipe <b>covers 23%</b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes around <b>1 hour and 15 minutes</b>. This recipe is liked by 47 foodies and cooks. If you have onion, chicken stock, garlic, and a few other ingredients on hand, you can make it. All things considered, we decided this recipe <b>deserves a spoonacular score of 98%</b>. This score is amazing. Similar recipes include <a href=\"https://spoonacular.com/recipes/farro-risotto-with-wild-mushrooms-and-asparagus-495316\">Farro Risotto with Wild Mushrooms and Asparagus</a>, <a href=\"https://spoonacular.com/recipes/farro-with-asparagus-hazelnuts-and-kale-topped-with-roasted-mushrooms-298005\">Farro with Asparagus, Hazelnuts and Kale Topped with Roasted Mushrooms</a>, and <a href=\"https://spoonacular.com/recipes/farro-and-porcini-mushrooms-farro-con-funghi-40485\">Farro And Porcini Mushrooms (farro Con Funghi)</a>.",
+      "sustainable": false,
+      "title": "Farro With Mushrooms and Asparagus",
+      "vegan": false,
+      "vegetarian": true,
+      "veryHealthy": true,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 10
+    },
+    {
+      "aggregateLikes": 44,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [
+                {
+                  "id": 404784,
+                  "image": "oven.jpg",
+                  "localizedName": "oven",
+                  "name": "oven"
+                }
+              ],
+              "ingredients": [],
+              "number": 1,
+              "step": "Preheat oven to 375 degrees."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404727,
+                  "image": "baking-sheet.jpg",
+                  "localizedName": "baking sheet",
+                  "name": "baking sheet"
+                },
+                {
+                  "id": 404784,
+                  "image": "oven.jpg",
+                  "localizedName": "oven",
+                  "name": "oven"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 1004679,
+                  "image": "cooking-spray.png",
+                  "localizedName": "olive oil spray",
+                  "name": "olive oil spray"
+                },
+                {
+                  "id": 0,
+                  "image": "",
+                  "localizedName": "spread",
+                  "name": "spread"
+                },
+                {
+                  "id": 11168,
+                  "image": "corn.png",
+                  "localizedName": "corn",
+                  "name": "corn"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              },
+              "number": 2,
+              "step": "Spread corn flat on a baking sheet.Spray lightly with olive oil spray.Roast corn in the oven for about 8-10 minutes. (Be careful not to brown too much or burn.)"
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404783,
+                  "image": "bowl.jpg",
+                  "localizedName": "bowl",
+                  "name": "bowl"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 11821,
+                  "image": "red-pepper.jpg",
+                  "localizedName": "red pepper",
+                  "name": "red pepper"
+                },
+                {
+                  "id": 9037,
+                  "image": "avocado.jpg",
+                  "localizedName": "avocado",
+                  "name": "avocado"
+                },
+                {
+                  "id": 11215,
+                  "image": "garlic.png",
+                  "localizedName": "garlic",
+                  "name": "garlic"
+                }
+              ],
+              "number": 3,
+              "step": "Remove from heat and allow to cool.Finely chop red pepper and garlic and mix in a bowl.Peel and coarsely chop avocado and add to bowl."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11168,
+                  "image": "corn.png",
+                  "localizedName": "corn",
+                  "name": "corn"
+                }
+              ],
+              "number": 4,
+              "step": "Add cooled corn."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 2053,
+                  "image": "vinegar-(white).jpg",
+                  "localizedName": "vinegar",
+                  "name": "vinegar"
+                },
+                {
+                  "id": 1002014,
+                  "image": "ground-cumin.jpg",
+                  "localizedName": "cumin",
+                  "name": "cumin"
+                }
+              ],
+              "number": 5,
+              "step": "Mix in cumin and vinegar and blend well."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Foodista.com \u2013 The Cooking Encyclopedia Everyone Can Edit",
+      "cuisines": [
+        "Mexican"
+      ],
+      "dairyFree": true,
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": true,
+      "healthScore": 71.0,
+      "id": 640062,
+      "image": "https://spoonacular.com/recipeImages/640062-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 3.0",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 130.73,
+      "readyInMinutes": 25,
+      "servings": 2,
+      "sourceName": "Foodista",
+      "sourceUrl": "http://www.foodista.com/recipe/BDRS2JZG/corn-avocado-salsa",
+      "spoonacularScore": 97.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/corn-avocado-salsa-640062",
+      "summary": "The recipe Corn Avocado Salsa could satisfy your Mexican craving in around <b>25 minutes</b>. For <b>$1.31 per serving</b>, this recipe <b>covers 15%</b> of your daily requirements of vitamins and minerals. One serving contains <b>239 calories</b>, <b>5g of protein</b>, and <b>16g of fat</b>. Head to the store and pick up corn, bell pepper, cumin, and a few other things to make it today. A couple people really liked this hor d'oeuvre. It is a good option if you're following a <b>gluten free and vegan</b> diet. This recipe is liked by 44 foodies and cooks. All things considered, we decided this recipe <b>deserves a spoonacular score of 98%</b>. This score is spectacular. Try <a href=\"https://spoonacular.com/recipes/avocado-corn-salsa-793878\">Avocado Corn Salsa</a>, <a href=\"https://spoonacular.com/recipes/corn-and-avocado-salsa-253101\">Corn and Avocado Salsa</a>, and <a href=\"https://spoonacular.com/recipes/corn-and-avocado-salsa-166516\">Corn and Avocado Salsa</a> for similar recipes.",
+      "sustainable": false,
+      "title": "Corn Avocado Salsa",
+      "vegan": true,
+      "vegetarian": true,
+      "veryHealthy": true,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 7
+    },
+    {
+      "aggregateLikes": 1330,
+      "analyzedInstructions": [],
+      "cheap": false,
+      "creditsText": "Jen West",
+      "cuisines": [
+        "Mexican"
+      ],
+      "dairyFree": true,
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "paleolithic",
+        "lacto ovo vegetarian",
+        "primal",
+        "vegan"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "GAPS_FULL",
+      "glutenFree": true,
+      "healthScore": 35.0,
+      "id": 715543,
+      "image": "https://spoonacular.com/recipeImages/715543-312x231.jpg",
+      "imageType": "jpg",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 91.76,
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceName": "Pink When",
+      "sourceUrl": "http://www.pinkwhen.com/homemade-guacamole-recipe/",
+      "spoonacularScore": 96.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/homemade-guacamole-715543",
+      "summary": "Need a <b>caveman, gluten free, primal, and whole 30 hor d'oeuvre</b>? Homemade Guacamole could be an excellent recipe to try. For <b>89 cents per serving</b>, this recipe <b>covers 9%</b> of your daily requirements of vitamins and minerals. This recipe makes 4 servings with <b>166 calories</b>, <b>2g of protein</b>, and <b>15g of fat</b> each. If you have avocados, cilantro, pepper, and a few other ingredients on hand, you can make it. This recipe is liked by 1330 foodies and cooks. From preparation to the plate, this recipe takes about <b>45 minutes</b>. This recipe is typical of Mexican cuisine. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%</b>. This score is excellent. Try <a href=\"https://spoonacular.com/recipes/homemade-guacamole-883310\">Homemade Guacamole</a>, <a href=\"https://spoonacular.com/recipes/homemade-guacamole-409564\">Homemade Guacamole</a>, and <a href=\"https://spoonacular.com/recipes/homemade-guacamole-516945\">Homemade Guacamole</a> for similar recipes.",
+      "sustainable": false,
+      "title": "Homemade Guacamole",
+      "vegan": true,
+      "vegetarian": true,
+      "veryHealthy": false,
+      "veryPopular": true,
+      "weightWatcherSmartPoints": 5
+    },
+    {
+      "aggregateLikes": 72,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 1006615,
+                  "image": "chicken-broth.png",
+                  "localizedName": "broth",
+                  "name": "broth"
+                },
+                {
+                  "id": 2047,
+                  "image": "salt.jpg",
+                  "localizedName": "salt",
+                  "name": "salt"
+                }
+              ],
+              "number": 1,
+              "step": "Heat broth and a teaspoon of salt and bring to a boil."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404783,
+                  "image": "bowl.jpg",
+                  "localizedName": "bowl",
+                  "name": "bowl"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 11291,
+                  "image": "spring-onions.jpg",
+                  "localizedName": "green onions",
+                  "name": "green onions"
+                },
+                {
+                  "id": 11821,
+                  "image": "red-pepper.jpg",
+                  "localizedName": "red pepper",
+                  "name": "red pepper"
+                },
+                {
+                  "id": 12151,
+                  "image": "pistachios.jpg",
+                  "localizedName": "pistachio nuts",
+                  "name": "pistachio nuts"
+                },
+                {
+                  "id": 16057,
+                  "image": "chickpeas.png",
+                  "localizedName": "chickpeas",
+                  "name": "chickpeas"
+                },
+                {
+                  "id": 20028,
+                  "image": "couscous-cooked.jpg",
+                  "localizedName": "couscous",
+                  "name": "couscous"
+                },
+                {
+                  "id": 11297,
+                  "image": "parsley.jpg",
+                  "localizedName": "parsley",
+                  "name": "parsley"
+                },
+                {
+                  "id": 1006615,
+                  "image": "chicken-broth.png",
+                  "localizedName": "broth",
+                  "name": "broth"
+                }
+              ],
+              "length": {
+                "number": 5,
+                "unit": "minutes"
+              },
+              "number": 2,
+              "step": "Place couscous in a bowl and add broth.  Cover bowl to let couscous absorb liquid.After  5 minutes, remove cover and fluff couscous with a fork.In a large bowl, add the chickpeas, pistachios, red peppers, green onions and parsley and mix well."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 1019016,
+                  "image": "apple-juice.jpg",
+                  "localizedName": "juice",
+                  "name": "juice"
+                },
+                {
+                  "id": 9150,
+                  "image": "lemon.png",
+                  "localizedName": "lemon",
+                  "name": "lemon"
+                }
+              ],
+              "number": 3,
+              "step": "Add the zest and juice of the lemon and mix again."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 20028,
+                  "image": "couscous-cooked.jpg",
+                  "localizedName": "couscous",
+                  "name": "couscous"
+                },
+                {
+                  "id": 2047,
+                  "image": "salt.jpg",
+                  "localizedName": "salt",
+                  "name": "salt"
+                }
+              ],
+              "number": 4,
+              "step": "Add the spice mixture over the couscous and mix well. Taste, and add salt if needed."
+            },
+            {
+              "equipment": [],
+              "ingredients": [],
+              "number": 5,
+              "step": "Let the salad marinate for an hour or so before serving."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Foodista.com \u2013 The Cooking Encyclopedia Everyone Can Edit",
+      "cuisines": [],
+      "dairyFree": true,
+      "diets": [
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": false,
+      "healthScore": 56.0,
+      "id": 652423,
+      "image": "https://spoonacular.com/recipeImages/652423-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 3.0",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 187.17,
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceName": "Foodista",
+      "sourceUrl": "http://www.foodista.com/recipe/CCZR4V77/moroccan-couscous-and-chickpea-salad",
+      "spoonacularScore": 96.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/moroccan-couscous-and-chickpea-salad-652423",
+      "summary": "Moroccan Couscous and Chickpea Salad might be just the side dish you are searching for. One serving contains <b>486 calories</b>, <b>14g of protein</b>, and <b>25g of fat</b>. This recipe serves 6 and costs $1.91 per serving. A mixture of pepper, chickpeas, bell pepper, and a handful of other ingredients are all it takes to make this recipe so tasty. 71 person were impressed by this recipe. It is a good option if you're following a <b>vegan</b> diet. From preparation to the plate, this recipe takes about <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%</b>. This score is excellent. Try <a href=\"https://spoonacular.com/recipes/moroccan-tomato-chickpea-soup-with-couscous-222144\">Moroccan tomato & chickpea soup with couscous</a>, <a href=\"https://spoonacular.com/recipes/moroccan-tomato-couscous-chickpea-soup-810842\">Moroccan Tomato Couscous Chickpea Soup</a>, and <a href=\"https://spoonacular.com/recipes/moroccan-chickpea-tagine-with-quinoa-couscous-516825\">Moroccan Chickpea Tagine with Quinoa Couscous</a> for similar recipes.",
+      "sustainable": false,
+      "title": "Moroccan Couscous and Chickpea Salad",
+      "vegan": true,
+      "vegetarian": true,
+      "veryHealthy": true,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 14
+    },
+    {
+      "aggregateLikes": 14,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11147,
+                  "image": "swiss-chard.jpg",
+                  "localizedName": "swiss chard",
+                  "name": "swiss chard"
+                },
+                {
+                  "id": 10018364,
+                  "image": "flour-tortilla.jpg",
+                  "localizedName": "wrap",
+                  "name": "wrap"
+                }
+              ],
+              "number": 1,
+              "step": "Chop off the stems of the swiss chard at the point where it meets the leaf. You could stem the swiss chard entirely. I like leaving a bit of stem with the leaves to give better structure to the wraps."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404771,
+                  "image": "food-processor.png",
+                  "localizedName": "food processor",
+                  "name": "food processor"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 10011135,
+                  "image": "cauliflower.jpg",
+                  "localizedName": "cauliflower florets",
+                  "name": "cauliflower florets"
+                },
+                {
+                  "id": 11135,
+                  "image": "cauliflower.jpg",
+                  "localizedName": "cauliflower",
+                  "name": "cauliflower"
+                },
+                {
+                  "id": 20444,
+                  "image": "uncooked-white-rice.png",
+                  "localizedName": "rice",
+                  "name": "rice"
+                }
+              ],
+              "number": 2,
+              "step": "Chop the cauliflower into small pieces and pulse them in a food processor until it looks like rice. I usually pulse the cauliflower florets and the stalk together."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404645,
+                  "image": "pan.png",
+                  "localizedName": "frying pan",
+                  "name": "frying pan"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "image": "olive-oil.jpg",
+                  "localizedName": "olive oil",
+                  "name": "olive oil"
+                },
+                {
+                  "id": 11215,
+                  "image": "garlic.png",
+                  "localizedName": "garlic",
+                  "name": "garlic"
+                }
+              ],
+              "number": 3,
+              "step": "Place the olive oil in a saut pan over medium-high heat. Once the pan is hot, add the garlic and let it fry for about a minute or two, or until the garlic starts to brown."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 10111135,
+                  "image": "cauliflower.jpg",
+                  "localizedName": "cauliflower rice",
+                  "name": "cauliflower rice"
+                },
+                {
+                  "id": 11135,
+                  "image": "cauliflower.jpg",
+                  "localizedName": "cauliflower",
+                  "name": "cauliflower"
+                },
+                {
+                  "id": 9200,
+                  "image": "orange.png",
+                  "localizedName": "orange",
+                  "name": "orange"
+                }
+              ],
+              "length": {
+                "number": 3,
+                "unit": "minutes"
+              },
+              "number": 4,
+              "step": "Add the pulsed cauliflower rice and cook it for about 2-3 minutes. The cauliflower should turn into a vibrant yellow-orange color when it is cooked."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 11135,
+                  "image": "cauliflower.jpg",
+                  "localizedName": "cauliflower",
+                  "name": "cauliflower"
+                },
+                {
+                  "id": 2044,
+                  "image": "basil.jpg",
+                  "localizedName": "basil",
+                  "name": "basil"
+                },
+                {
+                  "id": 2047,
+                  "image": "salt.jpg",
+                  "localizedName": "salt",
+                  "name": "salt"
+                }
+              ],
+              "number": 5,
+              "step": "Add a pinch of salt and chopped basil to the cauliflower and stir."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404693,
+                  "image": "peeler.png",
+                  "localizedName": "peeler",
+                  "name": "peeler"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 10111477,
+                  "image": "zoodles.jpg",
+                  "localizedName": "zucchini noodles",
+                  "name": "zucchini noodles"
+                },
+                {
+                  "id": 11583,
+                  "image": "mixed-vegetables.png",
+                  "localizedName": "vegetable",
+                  "name": "vegetable"
+                },
+                {
+                  "id": 11477,
+                  "image": "zucchini.jpg",
+                  "localizedName": "zucchini",
+                  "name": "zucchini"
+                }
+              ],
+              "number": 6,
+              "step": "Spiralize the zucchini with Blade B to create zucchini noodles. If you do not have a spiralizer, just create zucchini ribbons with a vegetable peeler."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 10018364,
+                  "image": "flour-tortilla.jpg",
+                  "localizedName": "wrap",
+                  "name": "wrap"
+                }
+              ],
+              "number": 7,
+              "step": "To assemble the wraps, place a large leaf flat down."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 10111477,
+                  "image": "zoodles.jpg",
+                  "localizedName": "zucchini noodles",
+                  "name": "zucchini noodles"
+                },
+                {
+                  "id": 11135,
+                  "image": "cauliflower.jpg",
+                  "localizedName": "cauliflower",
+                  "name": "cauliflower"
+                },
+                {
+                  "id": 11147,
+                  "image": "swiss-chard.jpg",
+                  "localizedName": "swiss chard",
+                  "name": "swiss chard"
+                },
+                {
+                  "id": 11821,
+                  "image": "red-pepper.jpg",
+                  "localizedName": "red pepper",
+                  "name": "red pepper"
+                },
+                {
+                  "id": 9037,
+                  "image": "avocado.jpg",
+                  "localizedName": "avocado",
+                  "name": "avocado"
+                }
+              ],
+              "number": 8,
+              "step": "Add a bit of sauted cauliflower, zucchini noodles, red pepper, and avocado along the swiss chard stalk."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 4135,
+                  "image": "vinaigrette.jpg",
+                  "localizedName": "vinaigrette",
+                  "name": "vinaigrette"
+                },
+                {
+                  "id": 11583,
+                  "image": "mixed-vegetables.png",
+                  "localizedName": "vegetable",
+                  "name": "vegetable"
+                },
+                {
+                  "id": 10018364,
+                  "image": "flour-tortilla.jpg",
+                  "localizedName": "wrap",
+                  "name": "wrap"
+                }
+              ],
+              "number": 9,
+              "step": "Drizzle a bit of vinaigrette on top of the vegetables and wrap everything up."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 0,
+                  "image": "",
+                  "localizedName": "sauce",
+                  "name": "sauce"
+                },
+                {
+                  "id": 10018364,
+                  "image": "flour-tortilla.jpg",
+                  "localizedName": "wrap",
+                  "name": "wrap"
+                },
+                {
+                  "id": 0,
+                  "image": "",
+                  "localizedName": "dip",
+                  "name": "dip"
+                }
+              ],
+              "number": 10,
+              "step": "Enjoy these wraps as a side to your favorite protein! Feel free to dip these wraps in more sauce."
+            },
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 10018364,
+                  "image": "flour-tortilla.jpg",
+                  "localizedName": "wrap",
+                  "name": "wrap"
+                }
+              ],
+              "number": 11,
+              "step": "These wraps are best consumed when they are freshly made. Refrigerate any leftovers in an airtight container."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Foodista.com \u2013 The Cooking Encyclopedia Everyone Can Edit",
+      "cuisines": [],
+      "dairyFree": true,
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": true,
+      "healthScore": 90.0,
+      "id": 662670,
+      "image": "https://spoonacular.com/recipeImages/662670-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 3.0",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 81.56,
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceName": "Foodista",
+      "sourceUrl": "https://www.foodista.com/recipe/LHXZRNVW/swiss-chard-wraps",
+      "spoonacularScore": 96.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/swiss-chard-wraps-662670",
+      "summary": "You can never have too many side dish recipes, so give Swiss Chard Wraps a try. This recipe serves 6. One serving contains <b>139 calories</b>, <b>4g of protein</b>, and <b>11g of fat</b>. For <b>82 cents per serving</b>, this recipe <b>covers 18%</b> of your daily requirements of vitamins and minerals. 14 people have tried and liked this recipe. Head to the store and pick up swiss chard leaves, orange cauliflower, salt, and a few other things to make it today. It is a good option if you're following a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan</b> diet. From preparation to the plate, this recipe takes about <b>about 45 minutes</b>. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%</b>. This score is outstanding. <a href=\"https://spoonacular.com/recipes/sweet-thai-chile-chicken-swiss-chard-wraps-with-peanut-ginger-sauce-703915\">Sweet Thai Chile Chicken Swiss Chard Wraps with Peanut Ginger Sauce</a>, <a href=\"https://spoonacular.com/recipes/swiss-chard-613442\">Swiss Chard</a>, and <a href=\"https://spoonacular.com/recipes/swiss-chard-353815\">Swiss Chard</a> are very similar to this recipe.",
+      "sustainable": false,
+      "title": "Swiss Chard Wraps",
+      "vegan": true,
+      "vegetarian": true,
+      "veryHealthy": true,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 3
+    },
+    {
+      "aggregateLikes": 161,
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "equipment": [],
+              "ingredients": [
+                {
+                  "id": 9152,
+                  "image": "lemon-juice.jpg",
+                  "localizedName": "lemon juice",
+                  "name": "lemon juice"
+                },
+                {
+                  "id": 16057,
+                  "image": "chickpeas.png",
+                  "localizedName": "chickpeas",
+                  "name": "chickpeas"
+                },
+                {
+                  "id": 1116,
+                  "image": "plain-yogurt.jpg",
+                  "localizedName": "yogurt",
+                  "name": "yogurt"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "length": {
+                "number": 480,
+                "unit": "minutes"
+              },
+              "number": 1,
+              "step": "Rinse the chickpeas and soak for 8 hours or overnight covered in several inches of water with a little yogurt whey or lemon juice added."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404669,
+                  "image": "sauce-pan.jpg",
+                  "localizedName": "sauce pan",
+                  "name": "sauce pan"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 0,
+                  "image": "kidney-beans.jpg",
+                  "localizedName": "beans",
+                  "name": "beans"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "length": {
+                "number": 120,
+                "unit": "minutes"
+              },
+              "number": 2,
+              "step": "Drain and rinse, then transfer to a large saucepan.  Cover with several inches of fresh water, bring to a boil, reduce the heat to medium-low and cover.  Simmer for 1 to 1 1/2 hours or until the beans are buttery soft."
+            },
+            {
+              "equipment": [
+                {
+                  "id": 404771,
+                  "image": "food-processor.png",
+                  "localizedName": "food processor",
+                  "name": "food processor"
+                }
+              ],
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "image": "olive-oil.jpg",
+                  "localizedName": "olive oil",
+                  "name": "olive oil"
+                },
+                {
+                  "id": 14412,
+                  "image": "water.png",
+                  "localizedName": "water",
+                  "name": "water"
+                }
+              ],
+              "number": 3,
+              "step": "Drain.In a food processor, combine all of the ingredients and process until you have a thick, smooth paste. You may need to add extra olive oil or a bit of water if you want a thinner paste. Makes 3 cups, nutrition information is based on 1/4 cup serving."
+            }
+          ]
+        }
+      ],
+      "cheap": false,
+      "creditsText": "Lisa's Vegetarian Kitchen",
+      "cuisines": [
+        "Middle Eastern"
+      ],
+      "dairyFree": true,
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "vegan"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "gaps": "no",
+      "glutenFree": true,
+      "healthScore": 40.0,
+      "id": 716195,
+      "image": "https://spoonacular.com/recipeImages/716195-312x231.jpg",
+      "imageType": "jpg",
+      "license": "CC BY 2.5 CA",
+      "lowFodmap": false,
+      "occasions": [],
+      "pricePerServing": 43.68,
+      "readyInMinutes": 45,
+      "servings": 12,
+      "sourceName": "Food and Spice",
+      "sourceUrl": "http://foodandspice.blogspot.com/2012/07/spicy-hummus-indian-style.html",
+      "spoonacularScore": 96.0,
+      "spoonacularSourceUrl": "https://spoonacular.com/spicy-indian-style-hummus-716195",
+      "summary": "Spicy Indian-Style Hummus might be just the hor d'oeuvre you are searching for. This recipe makes 12 servings with <b>134 calories</b>, <b>5g of protein</b>, and <b>6g of fat</b> each. For <b>43 cents per serving</b>, this recipe <b>covers 11%</b> of your daily requirements of vitamins and minerals. It is a good option if you're following a <b>gluten free and vegan</b> diet. Several people made this recipe, and 161 would say it hit the spot. If you have ground cumin, turmeric, chilies, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. This recipe is typical of middl eastern cuisine. All things considered, we decided this recipe <b>deserves a spoonacular score of 97%</b>. This score is amazing. Try <a href=\"https://spoonacular.com/recipes/indian-style-spicy-couscous-647863\">Indian Style Spicy Couscous</a>, <a href=\"https://spoonacular.com/recipes/kashmiri-style-leg-of-lamb-this-indian-style-of-lamb-is-a-real-treat-everyone-will-think-you-are-a-gourmet-chef-600227\">Kashmiri-Style leg of lamb \u2013 this Indian style of lamb is a real treat, everyone will think you are a gourmet chef</a>, and <a href=\"https://spoonacular.com/recipes/indian-style-chicken-32222\">Indian- Style Chicken</a> for similar recipes.",
+      "sustainable": false,
+      "title": "Spicy Indian-Style Hummus",
+      "vegan": true,
+      "vegetarian": true,
+      "veryHealthy": false,
+      "veryPopular": false,
+      "weightWatcherSmartPoints": 3
+    }
+  ],
+  "totalResults": 612
+}

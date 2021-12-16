@@ -27,6 +27,7 @@ h2 {
     margin:5px auto;
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
+    margin: 20px 0 0;
 }
 
 h3  {
@@ -44,7 +45,7 @@ form {
 
 img {
     display: block;
-    margin : 5px auto 0;
+    margin : 8px auto 8px;
 }
 
 label {
@@ -56,26 +57,34 @@ input {
     padding: 5px;
 }
 
-a {
+p {
+    max-width: 600px;
+    margin: 5px auto;
+    padding: 0 8px;
+}
+
+.recipeLink {
     background-color:  rgb(109, 0, 0);
     color : lightgoldenrodyellow;
     font-weight: bold;
     display: block;
     text-align: center;
     padding: 20px;
-    margin: 0 auto 20px;
+    margin: 0 auto 30px;
     max-width: 268px;
+    text-decoration: none;
+    border-radius: 20px;
 
 }
 
-a:hover{
+.recipeLink:hover{
     color: white
 }
 
-a:visited{
+.recipeLink:visited{
     background-color: rgb(39, 11, 11);
 }
 
 .button{
-    padding: 20px;
+    padding: 10px;
 }
