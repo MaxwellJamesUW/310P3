@@ -32,9 +32,8 @@ def callREST(urlstr):
 # and builds out a web page with meal options and their links to the recipe source.
 # params -
 #    jsondata - dictionary of api search results
-#    lonks - dictionary of recipe links in ['id'] : 'linkURL' format
 def buildMealPage(jsondata):
-    header = '<html><head><link rel="stylesheet" href="static/styles.css"><title> Meal Ideas </title></head><body><div>'
+    header = '<html><head><link rel="stylesheet" href="static/styles.css"><title>Your Recipes</title></head><body><div>'
     header = header + '<form><input type="button" class="button" value="< Back" onclick="history.back()"></form>'
     header = header + '<h1>Recipes Matching Your Search:</h1>'
     footer = '<form><input type="button" class="button" value="< Back" onclick="history.back()"></form>' + "</div></body></html>"
@@ -133,14 +132,6 @@ def generateMeals():
     ofile = open('apiResponse.txt', 'w')
     ofile.write(pretty(apidata))
     ofile.close()
-
-    #print('Meal Ideas:')
-
-    idlst = []
-    for item in apidata['results']:
-        #print("   " + item['title'])
-        idlst.append(item['id'])
-        
 
     print('Writing HTML...')
     return buildMealPage(apidata)
